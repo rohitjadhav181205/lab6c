@@ -1,0 +1,1 @@
+lab6b java o/p link :https://github.com/rohitjadhav181205/lab6c/commit/33809de7296febf9335bfc1f73fb032dbdafb77d & https://github.com/rohitjadhav181205/lab6c/commit/33809de7296febf9335bfc1f73fb032dbdafb77d
